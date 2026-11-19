@@ -1,0 +1,8 @@
+PySide6
+ultralytics
+python-docx
+opencv-python
+python-dotenv
+groq
+Pillow
+python-dotenv

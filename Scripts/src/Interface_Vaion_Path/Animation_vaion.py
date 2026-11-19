@@ -123,6 +123,7 @@ class Login_Vaion_Vision(QWidget):
             self.point_effects.append(efeito)
 
             self.layout_loading.addWidget(point_animo)
+            
 
         # Centraliza os três pontos
         layout_principal.addLayout(self.layout_loading)

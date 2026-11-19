@@ -40,6 +40,7 @@ class Interface_Vaion_Vision(QWidget):
                 background-color:#25213B ;
             }
         """)
+        
 
 
         layout.addWidget(self.box_info)
