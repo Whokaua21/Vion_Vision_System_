@@ -2,3 +2,17 @@
 
 Scripts/src/.env
 Scripts\src\e011.jpg
+
+# Ambientes virtuais
+.venv/
+venv/
+Lib/
+Include/
+pyvenv.cfg
+
+# Python
+__pycache__/
+*.pyc
+
+# Arquivos temporários
+*.log
